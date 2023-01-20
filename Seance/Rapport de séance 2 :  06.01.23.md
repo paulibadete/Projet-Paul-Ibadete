@@ -26,7 +26,7 @@ On va faire 8 rangées de 3 de capteurs pour avoir des mesures précises de notr
 On doit prendre la valeur maximale de chaque mesure pour avoir une représentation globale de notre foulé.<br>
 Pour cela on doit faire un tableau des mesures puis on prend une mesure on la définit comme maximale puis on prend la deuxième mesure si elle est 
 plus grande on la garde sinon on reste avec la mesure initiale….<br>
-On estime une foulé à 1 seconde donc il faut mettre un delay de 1 seconde voir ne pas en mettre.<br>
+On estime une foulé à 1 seconde donc il faut mettre un delay de 1 milli-seconde voir ne pas en mettre.<br>
 Il faut voir le temps que prends arduino pour faire l’ensemble des mesures.<br>
 On va mettre nos capteurs sur une semelle puis ajouter un plastique mou (sac poubelle) pour protéger les capteurs sans absorber les chocs.<br>
 On met notre dispositif dans la poche composé d’un dispositif (accéléromètre ou gps) pour avoir la vitesse.<br>
