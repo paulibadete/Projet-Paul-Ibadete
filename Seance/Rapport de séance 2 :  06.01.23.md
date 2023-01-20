@@ -11,7 +11,7 @@ lors pied plat puis light touch lorsque le poids est sur le bout du pied (fin de
 
 <h2>Ibadete : </h2>
 
-Je me suis occupée de l’accéléromètre. J’ai trouvé un code qui pourrait marcher : 
+Je me suis occupée de l’accéléromètre. Pour essayer de trouver la vitesse, j’ai trouvé un code qui pourrait marcher : 
 j’intègre l’accélération en fonction du temps.<br> 
 Cependant, L’accéléromètre est de bas de gamme donc il y aura beaucoup de bruit qui va donc nous donner des valeurs pas précises et beaucoup d’erreur. <br>
 De plus, le pied ne bouge pas de façon linéaire donc il y aura un problème lorsqu’on bouge le pied dans un angle ou un autre. <br>
