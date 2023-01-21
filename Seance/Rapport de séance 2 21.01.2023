@@ -1,0 +1,13 @@
+# Rapport de séance 4:
+<h1>Ibadete :</h1>
+ 
+ J'ai continué le soudage des capteurs pour pouvoir les relier de manière à ce qu'ils ne fassent pas mal quand l'on marche dessus.
+ Après j'ai continé mon code sur le podomètre. J'ai vu que j'allais avoir un problème avec le calcul de la norme de l'accélération.
+ Et j'ai commencé les recherches sur le calcul de la vitesse avec ce podomètre. 
+ 
+ Ensuite, on a travaillé avec Paul sur le câblage des capteurs avec la carte Arduino. 
+ 
+ J'ai aussi pu commencer le travail sur le code pour l'affichage sur ordinateur. On va essayer d'afficher la cartographie d'un pied séparer en plusieurs 
+ parties qui va après avoir un code couleur. 
+<h1>Paul :</h1>
+
