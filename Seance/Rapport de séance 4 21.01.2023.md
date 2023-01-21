@@ -11,7 +11,7 @@
  parties qui va après avoir un code couleur. 
 <h1>Paul :</h1>
 
-Paul : Tout d’abord nous avons commencé par une présentation de notre projet en 5 minutes puis nous avons répondu aux questions des professeurs. <br>
+Tout d’abord nous avons commencé par une présentation de notre projet en 5 minutes puis nous avons répondu aux questions des professeurs. <br>
 Par la suite, j’ai aidé à ressouder les fils qui s’étaient détachés de notre semelle. <br>
 Puis j’ai réalisé les nombreux branchements pour connecter la semelle a notre carte Arduino. <br>
 Ensuite j’ai vérifié que nos capteurs étaient bien branchés. <br>
