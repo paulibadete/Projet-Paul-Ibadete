@@ -9,4 +9,4 @@ Ensuite, je me suis concentré sur mon code. <br>
   Ce graphe m’a permis de voir comment les capteurs réagissait et à partir de quel temps la valeur maximale était obtenu. <br>
   Grace à la valeur maximale de chaque capteur j’ai pris le temps obtenu pour ces capteurs puis sur mon code j’ai pris la mesure à chaque temps ou j’obtenais un maximum.<br> 
   Puis en stockant cette valeur et en l’ajoutant à chaque fois, j’ai divisé le total par le nombre de fois pour obtenir une moyenne de ces capteurs.<br></p>
-<img src="Images/graphique-capteurs.jpeg.jpeg" alt="graphique des 6 capteurs" style="width:300px;height:400px;"/>
+<img src="Images/graphiquecapteurs.jpeg.jpeg" alt="graphique des 6 capteurs" style="width:300px;height:400px;"/>
