@@ -10,3 +10,5 @@ Ensuite, je me suis concentré sur mon code. <br>
   Grace à la valeur maximale de chaque capteur j’ai pris le temps obtenu pour ces capteurs puis sur mon code j’ai pris la mesure à chaque temps ou j’obtenais un maximum.<br> 
   Puis en stockant cette valeur et en l’ajoutant à chaque fois, j’ai divisé le total par le nombre de fois pour obtenir une moyenne de ces capteurs.<br></p>
 <img src="Images/graphique-capteurs.jpeg.jpeg" alt="graphique des 6 capteurs" style="width:300px;height:400px;"/>
+<h1>Ibadete: </h1>
+<p> Durant cette séance, j'ai soudé les capteurs aux fils puis ensuite je les ai scotché sur la semelle et je les ai reliés entre eux ce qui m'a pris énormément de tems. Ensuite j'ai fini le code sur la vitesse qui maintenant s'affiche sur l'écran LCD.</p>
