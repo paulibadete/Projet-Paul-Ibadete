@@ -1,0 +1,22 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib import cm
+import matplotlib.image as img
+from matplotlib.colors import ListedColormap, LinearSegmentedColormap
+import matplotlib.colors
+
+image = img.imread('pied.png')
+xdata=[80,110,140,100,180,70]
+ydata=[500,570,500,100,210,180]
+size=[500,500,500,500,500,500]
+force=[800,500,200,10,100,50]
+cmap = ListedColormap(["blue", "cyan","green", "yellow","orange","red"])
+
+plt.scatter(xdata,ydata,s=size,c=force,cmap=cmap)
+c = plt.colorbar()
+plt.clim(0, 800)
+plt.title("système de mesure de la pression plantaire")
+c.ax.set_ylabel('Force (N)', rotation=270, labelpad=15)  # Légende de la colorbar
+plt.imshow(image)
+plt.show()
+plt.close()
